@@ -1,5 +1,5 @@
 # cr2_tserie
-Read CR2 climate netcdf  
+Read CR2 climate netcdf and create 1 file x each variable 
 
 
 % función cr2_tserie por Nico Donoso
